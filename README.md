@@ -1,4 +1,4 @@
-# Voxcribe - AI powered STT and TTS
+# Voxcribe - AI powered Speech-to-Text (STT) and Text-to-Speech (TTS)
 A powerful and user-friendly web application for Text-to-Speech (TTS) and Speech-to-Text (STT) processing, built with Python and Streamlit, powered by Azure Cognitive Services and OpenAI ChatGPT-4. This tool supports multi-language, multi-voice rendering, audio transcription, and translation — all from one sleek interface.
 
 ## Features:
