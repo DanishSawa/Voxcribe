@@ -32,6 +32,10 @@ audio-files-folder             # Input WAVs or ZIP for STT
 
 text-csv-file                 # Input csv for TTS # Refer to the csv template
 
+Text CSV File:
+
+Refer the csv template where you can add multiple texts and add multiple languages.
+
 Use Cases:
 
 Creating voiceovers in multiple languages.
